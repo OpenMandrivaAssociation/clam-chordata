@@ -6,7 +6,7 @@ URL: http://clam-project.org/
 Group: Sound
 License: GPL
 Source: http://clam-project.org/download/src/chordata-%{version}.tar.gz
-BuildRequires: libclam-devel
+BuildRequires: scons libclam-devel qt4-devel libclam-qtmonitors-devel
 BuildRoot: %{_tmppath}/%{name}-%{version}-root
 
 %description
