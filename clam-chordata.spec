@@ -2,7 +2,7 @@ Name: clam-chordata
 Version: 1.0.0
 Release: 1
 Summary: A chord detection tool
-URL: http://clam-project.org/
+URL: https://clam-project.org/
 Group: Sound
 License: GPL
 Source: http://clam-project.org/download/src/chordata-%{version}.tar.gz
